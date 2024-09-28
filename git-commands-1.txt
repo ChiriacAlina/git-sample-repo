@@ -1,6 +1,6 @@
 GIT COMANDS:
 git status -> print the status of the Git Repository
-git init
+git init -> initialise the Git Repository
 git config --global user.name "Alina CHIRIAC"
 git config --global user.email achiriac@gmail.com
 git config user.name "Alina CHIRIAC"
