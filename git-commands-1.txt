@@ -1,0 +1,11 @@
+GIT COMANDS:
+git status
+git init
+git config --global user.name "Alina CHIRIAC"
+git config --global user.email achiriac@gmail.com
+git config user.name "Alina CHIRIAC"
+git config user.email achiriac@gmail.com
+git add
+git commit -m ""
+git log
+Git diff <filename>
