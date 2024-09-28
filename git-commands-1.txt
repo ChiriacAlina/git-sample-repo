@@ -1,5 +1,5 @@
 GIT COMANDS:
-git status
+git status -> print the status of the Git Repository
 git init
 git config --global user.name "Alina CHIRIAC"
 git config --global user.email achiriac@gmail.com
