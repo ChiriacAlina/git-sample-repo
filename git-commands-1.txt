@@ -9,3 +9,64 @@ git add
 git commit -m ""
 git log
 Git diff <filename>
+
+-------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Scenario 2:
+Two people
+
+Person A -> enhance the framework
+Person B -> automating test cases
+
+testMethod1 -> getName()
+
+Person A -> Mergo code to master
+Person B -> Pull from master to private branch, merge code to master
