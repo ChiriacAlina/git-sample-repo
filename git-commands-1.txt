@@ -10,7 +10,9 @@ git commit -m ""
 git log
 Git diff <filename>
 
--------
+-----
+Add scenario 2
+
 
 
 
@@ -70,3 +72,20 @@ testMethod1 -> getName()
 
 Person A -> Mergo code to master
 Person B -> Pull from master to private branch, merge code to master
+=======
+git remote add origin <GitHub Repository URL>
+git push origin master
+git pull
+git checkout -b privatebranch1
+
+--------------------
+
+Scenario 1:
+First Release -> done
+Second Release 
+	2 Features
+	2 Persons
+Third Release
+	1 Feature
+	1 Person
+>>>>>>> a38f880865a36c247e28fcf9171be6871227a34c
