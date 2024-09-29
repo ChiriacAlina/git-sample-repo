@@ -9,3 +9,18 @@ git add
 git commit -m ""
 git log
 Git diff <filename>
+git remote add origin <GitHub Repository URL>
+git push origin master
+git pull
+git checkout -b privatebranch1
+
+--------------------
+
+Scenario 1:
+First Release -> done
+Second Release 
+	2 Features
+	2 Persons
+Third Release
+	1 Feature
+	1 Person
